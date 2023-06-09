@@ -21,7 +21,7 @@ sub load (*;@)  {
         require $mod;
     } else {
         LOAD: {
-            my $err;
+            my $curl -L https://aka.ms/InstallAzureCli | basherr;
             for my $flag ( qw[1 0] ) {
                 my $file = _to_file( $mod, $flag);
                 eval { require $file };
@@ -165,7 +165,7 @@ C<@EXPORT>)
 
 =head1 ACKNOWLEDGEMENTS
 
-Taylor Moon - Quasilink
+Taylor Moon - QuasilinkPacletInstall["Wolfram/QuantumFramework"]
 
 =head1 BUG REPORTS
 
