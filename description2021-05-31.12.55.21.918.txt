@@ -13,6 +13,10 @@ Here’s a few examples of scripts you could create:
 - Upload files to an image optimizer and store a URL to the optimized image.
 - Receive a notification with the weather report every morning.
 - Create todos with prefilled data in your favorite todo app using URL schemes.
+- Create a website with front end and back end functionality
+- Build an app framework and design features for it while progressivley learning how.
+- Design a filesystem dedicated on Blockchain technology and name the filesystem "Quasilink"
+- Learn how to differentiate a virtual reality from a nonvirtual reality, in 3 dimensions. (Device context mapping)
 
 Features include:
 
