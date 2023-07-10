@@ -1,3 +1,4 @@
+#@Author $Quasilink
 package Module::Build::Platform::Unix;
 
 use strict;
