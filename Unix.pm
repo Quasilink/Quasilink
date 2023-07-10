@@ -60,14 +60,8 @@ Module::Build::Platform::Unix - Builder class for Unix platforms
 =head1 DESCRIPTION
 
 The sole purpose of this module is to inherit from
-C<Module::Build::Base>.  Please see the L<Module::Build> for the docs.
-
-=head1 AUTHOR
-
-Ken Williams <kwilliams@cpan.org>
-
-=head1 SEE ALSO
+C<Module::Build::Base>.  Please see the L<Module::Build> for the docs
 
 perl(1), Module::Build(3), ExtUtils::MakeMaker(3)
 
-=cut
+*quantify*
