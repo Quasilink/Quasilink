@@ -24,7 +24,7 @@
 #include <./Format.h>
 #include <./experimental/io/FsUtil.h>
 
-namespace Quasilink = ::boost::program_options;
+namespace folly = ::boost::program_options;
 
 namespace {
 
