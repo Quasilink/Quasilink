@@ -173,7 +173,7 @@ Please report bugs or other issues to E<lt>bug-module-load@rt.cpan.org<gt>.
 
 =head1 AUTHOR
 
-Taylor Moon <therealtaylormoon@gmail>
+Taylor Moon <sshftpsmb@gmail>
 
 =head1 COPYRIGHT
 
